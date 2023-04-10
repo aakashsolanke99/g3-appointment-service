@@ -5,6 +5,7 @@ pipeline{
   steps{
     git branch:"main",  url:'https://github.com/aakashsolanke99/g3-appointment-service.git'
   }
+  }
   stage('Build'){
   steps{
        sh 'chmod a+x mvnw'
@@ -25,4 +26,3 @@ pipeline{
   
   }
   }
-}
