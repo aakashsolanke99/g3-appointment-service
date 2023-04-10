@@ -1,0 +1,176 @@
+2023-04-11T00:00:09.621+05:30  WARN 2320 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-04-11T00:00:09.662+05:30  INFO 2320 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-11T00:00:09.909+05:30  INFO 2320 --- [main] c.c.a.AppointmentApplicationTests        : Started AppointmentApplicationTests in 28.868 seconds (process running for 33.441)
+2023-04-11T00:00:10.187+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:10.189+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:10.193+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:00:10.621+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:10.621+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:10.625+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:10.698+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:10.699+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:10.704+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:00:10.745+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:10.746+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:10.751+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:00:10.836+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:10.837+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:10.840+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.012+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.012+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.015+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.042+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.042+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.045+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:00:11.067+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.068+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.071+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.093+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.093+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.097+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.122+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.124+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.129+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:00:11.151+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.152+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.156+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.178+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.179+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.182+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:00:11.208+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.209+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.213+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:00:11.235+05:30  INFO 2320 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:00:11.235+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:00:11.239+05:30  INFO 2320 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:00:11.362+05:30  INFO 2320 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-11T00:00:11.969+05:30  INFO 2320 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-04-11T00:00:11.999+05:30  INFO 2320 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-04-11T00:03:05.623+05:30  INFO 19464 --- [main] c.c.a.AppointmentApplicationTests        : Starting AppointmentApplicationTests using Java 17.0.6 with PID 19464 (started by aakas in C:\Users\aakas\Downloads\Final-integration-main (1)\new_pratham_workspace\Microservices\g3-appointment-service)
+2023-04-11T00:03:05.632+05:30  INFO 19464 --- [main] c.c.a.AppointmentApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-04-11T00:03:11.107+05:30  INFO 19464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-11T00:03:11.731+05:30  INFO 19464 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 596 ms. Found 1 JPA repository interfaces.
+2023-04-11T00:03:12.655+05:30  INFO 19464 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=ee74d5fa-34ae-3f93-9fae-e23fd19fea38
+2023-04-11T00:03:15.210+05:30  INFO 19464 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-11T00:03:15.343+05:30  INFO 19464 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-11T00:03:16.012+05:30  INFO 19464 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-11T00:03:16.306+05:30  INFO 19464 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-04-11T00:03:16.844+05:30  INFO 19464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-11T00:03:17.422+05:30  INFO 19464 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3ecba23a
+2023-04-11T00:03:17.428+05:30  INFO 19464 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-04-11T00:03:17.672+05:30  INFO 19464 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11T00:03:20.470+05:30  INFO 19464 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11T00:03:20.501+05:30  INFO 19464 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-11T00:03:21.557+05:30  WARN 19464 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-11T00:03:27.594+05:30  WARN 19464 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-04-11T00:03:27.611+05:30  INFO 19464 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-11T00:03:27.897+05:30  INFO 19464 --- [main] c.c.a.AppointmentApplicationTests        : Started AppointmentApplicationTests in 25.51 seconds (process running for 30.431)
+2023-04-11T00:03:28.205+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:28.207+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:28.211+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:28.768+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:28.769+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:28.774+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:28.827+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:28.827+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:28.830+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:28.856+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:28.856+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:28.858+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:03:28.924+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:28.925+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:28.931+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:03:29.106+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.106+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.110+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:03:29.130+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.130+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.134+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:29.153+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.153+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.156+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:03:29.175+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.175+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.178+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-04-11T00:03:29.196+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.196+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.200+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:29.219+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.220+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.222+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:03:29.241+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.241+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.243+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 1 ms
+2023-04-11T00:03:29.262+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.263+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.266+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:03:29.285+05:30  INFO 19464 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:03:29.285+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:03:29.289+05:30  INFO 19464 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:03:29.407+05:30  INFO 19464 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-11T00:03:29.842+05:30  INFO 19464 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-04-11T00:03:29.862+05:30  INFO 19464 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2023-04-11T00:06:19.307+05:30  INFO 22260 --- [main] c.c.a.AppointmentApplicationTests        : Starting AppointmentApplicationTests using Java 17.0.6 with PID 22260 (started by aakas in C:\Users\aakas\Downloads\Final-integration-main (1)\new_pratham_workspace\Microservices\g3-appointment-service)
+2023-04-11T00:06:19.314+05:30  INFO 22260 --- [main] c.c.a.AppointmentApplicationTests        : No active profile set, falling back to 1 default profile: "default"
+2023-04-11T00:06:23.889+05:30  INFO 22260 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2023-04-11T00:06:24.371+05:30  INFO 22260 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 442 ms. Found 1 JPA repository interfaces.
+2023-04-11T00:06:25.319+05:30  INFO 22260 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=ee74d5fa-34ae-3f93-9fae-e23fd19fea38
+2023-04-11T00:06:27.612+05:30  INFO 22260 --- [main] trationDelegate$BeanPostProcessorChecker : Bean 'org.springframework.ws.config.annotation.DelegatingWsConfiguration' of type [org.springframework.ws.config.annotation.DelegatingWsConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-04-11T00:06:27.770+05:30  INFO 22260 --- [main] .w.s.a.s.AnnotationActionEndpointMapping : Supporting [WS-Addressing August 2004, WS-Addressing 1.0]
+2023-04-11T00:06:28.337+05:30  INFO 22260 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2023-04-11T00:06:28.543+05:30  INFO 22260 --- [main] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 6.1.7.Final
+2023-04-11T00:06:29.044+05:30  INFO 22260 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2023-04-11T00:06:29.587+05:30  INFO 22260 --- [main] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@5c0b55bc
+2023-04-11T00:06:29.593+05:30  INFO 22260 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2023-04-11T00:06:29.800+05:30  INFO 22260 --- [main] SQL dialect                              : HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2023-04-11T00:06:31.839+05:30  INFO 22260 --- [main] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2023-04-11T00:06:31.886+05:30  INFO 22260 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2023-04-11T00:06:32.836+05:30  WARN 22260 --- [main] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2023-04-11T00:06:38.646+05:30  WARN 22260 --- [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2023-04-11T00:06:38.667+05:30  INFO 22260 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint(s) beneath base path '/actuator'
+2023-04-11T00:06:38.919+05:30  INFO 22260 --- [main] c.c.a.AppointmentApplicationTests        : Started AppointmentApplicationTests in 22.325 seconds (process running for 26.337)
+2023-04-11T00:06:39.225+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.226+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.229+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:06:39.558+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.559+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.562+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:06:39.607+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.607+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.610+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:39.635+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.636+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.640+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:39.697+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.698+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.700+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:06:39.850+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.850+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.857+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 6 ms
+2023-04-11T00:06:39.881+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.882+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.885+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:06:39.906+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.907+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.911+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:39.934+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.934+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.938+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:39.963+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.963+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.967+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:39.991+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:39.991+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:39.994+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:40.016+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:40.017+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:40.021+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 4 ms
+2023-04-11T00:06:40.043+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:40.043+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:40.046+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2023-04-11T00:06:40.065+05:30  INFO 22260 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2023-04-11T00:06:40.066+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2023-04-11T00:06:40.069+05:30  INFO 22260 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 3 ms
+2023-04-11T00:06:40.169+05:30  INFO 22260 --- [SpringApplicationShutdownHook] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2023-04-11T00:06:40.593+05:30  INFO 22260 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2023-04-11T00:06:40.613+05:30  INFO 22260 --- [SpringApplicationShutdownHook] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
